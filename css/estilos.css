@@ -65,7 +65,7 @@ header {
 }
 
 .cabecera {
-    background-image: url(/img/portada.png);
+    background-image: url(./img/portada.png);
     width: 48rem;
     height: 32rem;
     background-size: cover;
@@ -109,7 +109,7 @@ h2 span {
 }
 
 logo {
-    background-image: url(/img/icono.png);
+    background-image: url(./img/icono.png);
     display: block;
     width: 16rem;
     height: 7rem;
@@ -142,7 +142,7 @@ section, main {
 }
 
 .fondo {
-    background-image: url(/img/flores.png);
+    background-image: url(./img/flores.png);
     position: absolute;
     top: 0;
     width: 100%;
@@ -351,7 +351,7 @@ footer b {
 }
 
 .logofinal {
-    background: url(/img/icofooter.png);
+    background: url(./img/icofooter.png);
     width: 9rem;
     height: 5rem;
     background-size: contain;
