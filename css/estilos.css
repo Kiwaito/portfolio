@@ -6,13 +6,6 @@
     --pop: "Poppins";
 }
 
-body::-webkit-scrollbar {width:.8rem;}
-body::-webkit-scrollbar-track {background:var(--oscuro)}
-body::-webkit-scrollbar-thumb {border-radius:.5rem;background:var(--verde);}
-::-webkit-scrollbar {height:0.5rem;width:0.5rem;background:var(--oscuro)} 
-::-webkit-scrollbar-track {background:var(--oscuro);}
-::-webkit-scrollbar-thumb {border-radius:5px;background: var(--verde);} 
-
 html {
     scroll-behavior: smooth;
 }
